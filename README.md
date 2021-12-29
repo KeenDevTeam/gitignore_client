@@ -1,2 +1,3 @@
-# gitignore_client
-Get the latest gitignore file that you need for your project
+# Project moved
+
+This projects is archived in favor of [GetIgnore](https://github.com/GetIgnore/getignore)
